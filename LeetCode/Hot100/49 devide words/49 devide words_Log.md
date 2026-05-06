@@ -28,5 +28,3 @@
 time: $O(n*(k+n))$
 space: $O(n*k)$
 
-## version 2 Optimized
-
